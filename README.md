@@ -64,3 +64,4 @@ Items:
 - 🧰 [Real Science](https://www.youtube.com/c/realscience)
 - 🧰 [Real Engineering](https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg)
 - 🧰 [Kurzgesagt](https://www.youtube.com/c/inanutshell/about)
+- 🧰 [Statistics tutorials and learning resources](https://github.com/mdozmorov/Statistics_notes)
