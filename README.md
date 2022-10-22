@@ -53,8 +53,8 @@ Items:
 - 🧰 [Professional Programming](https://github.com/charlax/professional-programming): An absolute gold mine of programming resources
 - 📄 [Machine Learning Cheatsheet](https://github.com/afshinea/stanford-cs-229-machine-learning)
 - 🧰 [Distributed Algorithms and Optimization](https://stanford.edu/~rezab/dao/): Lectures on Parallel and Distributed Algorithms and their applications
-- 🧰 [A Compiler Writing Journey](https://github.com/DoctorWkt/acwj): One man chronicles his journey writing a compiler
-- 🧰 [Part of an Operating System Writing Journey](https://github.com/s-matyukevich/raspberry-pi-os)
+- 🧰 💽 [A Compiler Writing Journey](https://github.com/DoctorWkt/acwj): One man chronicles his journey writing a compiler
+- 🧰 💽 [Part of an Operating System Writing Journey](https://github.com/s-matyukevich/raspberry-pi-os)
 - 📄 [Building a Basic CI/CD Pipeline](https://github.blog/2022-02-02-build-ci-cd-pipeline-github-actions-four-steps/)
 - 🧰 [Concurrency Crash Course Using Go](https://github.com/ChrisGora/ccc)
 - 🧰 [Low-Level Programming University](https://github.com/gurugio/lowlevelprogramming-university)
